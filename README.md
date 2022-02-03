@@ -1,2 +1,2 @@
 # BicycleSpeedSimBox
-Simulates a magnet pulse form a speed sensor
+Simulates a magnet pulse form a bicycle  speed sensor. Adjustable via rotary encoder
